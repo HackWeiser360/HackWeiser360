@@ -4,4 +4,4 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/https://github.com/HackWeiser360/MaxDOS.git"><img title="MaxDOS" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=MaxDOS&theme=dark"></a>
+<a href="https://github.com/https://github.com/HackWeiser360/MaxDOS.git"><img title="MaxDOS" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=MaxDOS&theme=light"></a>
