@@ -5,3 +5,7 @@
 
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/MaxDOS.git"><img title="MaxDOS" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=MaxDOS&theme=light"></a>
+
+<p align="center">
+<a href="https://github.com/https://github.com/HackWeiser360/Parrot-Shell.git"><img title="Parrot-Shell"
+src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repp=Parrot-Shell&theme=light"></a>
