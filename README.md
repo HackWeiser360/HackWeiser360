@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/Caffeine"><img title="Caffeine" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Caffeine&theme=dark"></a>
 <p align="center">
-<a href="https://github.com/https://github.com/HackWeiser360/xx142-b2.exe"><img title="xx142-b2.exe" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=xx142-b2.exe&theme=dark"></a>
+<a href="https://github.com/https://github.com/HackWeiser360/CCFinder"><img title="CCFinder" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=CCFinder&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/WhatsappAutoMessenger"><img title="WhatsappAutoMessenger" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=WhatsappAutoMessenger&theme=dark"></a>
 <p align="center">
