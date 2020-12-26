@@ -32,4 +32,5 @@
 <a href="https://github.com/https://github.com/HackWeiser360/AutoScriptKiddiesTool"><img title="AutoScriptKiddiesTool" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=AutoScriptKiddiesTool&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/Instahack"><img title="Instahack" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Instahack&theme=dark"></a>
-
+<p align="center">
+<a href="https://github.com/https://github.com/HackWeiser360/host.git"><img title="Host" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=host&theme=dark"></a>
