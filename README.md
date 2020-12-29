@@ -22,7 +22,8 @@
 <a href="https://github.com/https://github.com/HackWeiser360/WhatsAppScraper.git"><img title="WhatsAppScraper" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=WhatsAppScraper&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/TweetBot"><img title="TweetBot" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=TweetBot&theme=dark"></a>
-
+<p align="center">
+<a href="https://github.com/https://github.com/HackWeiser360/VirusKingdom"><img title="VirusKingdom" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=VirusKingdom&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/Termux-Backup"><img title="Termux-Backup" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Termux-Backup&theme=dark"></a>
 <p align="center">
@@ -33,6 +34,8 @@
 <a href="https://github.com/https://github.com/HackWeiser360/Parrot-Shell.git"><img title="Parrot-Shell" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Parrot-Shell&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/TheKnight"><img title="TheKnight" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=TheKnight&theme=dark"></a>
+<p align="center">
+<a href="https://github.com/https://github.com/HackWeiser360/Fabric-Brush"><img title="Fabric-Brush" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Fabric- rush&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/PayBag.git"><img title="PayBag" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=PayBag&theme=dark"></a>
 <p align="center">
@@ -47,3 +50,5 @@
 <a href="https://github.com/https://github.com/HackWeiser360/Instahack"><img title="Instahack" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Instahack&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/host.git"><img title="Host" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=host&theme=dark"></a>
+<p align="center">
+<a href="https://github.com/https://github.com/HackWeiser360/xx142-b2.exe"><img title="xx142-b2.exe" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=xx142-b2.exe&theme=dark"></a>
