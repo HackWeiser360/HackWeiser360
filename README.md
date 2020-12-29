@@ -35,7 +35,7 @@
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/TheKnight"><img title="TheKnight" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=TheKnight&theme=dark"></a>
 <p align="center">
-<a href="https://github.com/https://github.com/HackWeiser360/Fabric-Brush"><img title="Fabric-Brush" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Fabric- rush&theme=dark"></a>
+<a href="https://github.com/https://github.com/HackWeiser360/Fabric-Brush"><img title="Fabric-Brush" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Fabric-Brush&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/PayBag.git"><img title="PayBag" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=PayBag&theme=dark"></a>
 <p align="center">
