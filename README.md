@@ -7,6 +7,12 @@
 <p align="center">
 <a href="https://github.com/HackWeiser360"><img title="HackWeiser360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackWeiser360&layout=compact&theme=dark"></a>
 </p>
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/HackWeiser360"><img width=550 src="https://github-profile-trophy.vercel.app/?username=HackWeiser360&theme=dark&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/HackWeiser360"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=HackWeiser360&color=dark&style=flat-square"></a>
+
 
 <p align="center"
 <a href="https://github.com/https://github.com/HackWeiser360/python-telegram-bot"><img title="Python Telegram Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=python-telegram-bot&theme=dark"></a>
