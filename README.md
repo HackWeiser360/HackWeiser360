@@ -8,7 +8,10 @@
 <p align="center">
 <a href="https://github.com/HackWeiser360"><img title="HackWeiser360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackWeiser360&layout=compact&theme=dark"></a>
 </p>
-
+<p align="center">
+<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/HackWeiser360-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/HackWeiser360"><img title="YouTube" src="https://img.shields.io/badge/YouTube-HackWeiser-red?style=for-the-badge&logo=Youtube"></a>
+</p>
 <p align="center"
 <a href="https://github.com/https://github.com/HackWeiser360/python-telegram-bot"><img title="Python Telegram Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=python-telegram-bot&theme=dark"></a>
 <p align="center"
