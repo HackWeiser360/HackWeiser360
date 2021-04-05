@@ -13,8 +13,8 @@
 </p>
 <p align="center">
 <a href="https://rebrand.ly/Telegram Channel"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://rebrand.ly/Twitter Profile"><img title="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter"></a>
-<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://Twitter.com/503_madmax/Twitter Profile"><img title="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter"></a>
+<a href="https://Instagram.com/madmax4708/Instagram"><img title="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center">
 <a href="https://github.com/HackWeiser360"><img title="HackWeiser360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackWeiser360&layout=compact&theme=dark"></a>
 </p>
