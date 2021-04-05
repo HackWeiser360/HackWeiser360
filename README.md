@@ -2,7 +2,7 @@
 ### Welcome to my profile🌟
  ![107733558_124752](https://user-images.githubusercontent.com/74961526/103146452-86417e80-475a-11eb-8a4e-464d01371719.jpg)
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/HackWeiser360"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=HackWeiser360&color=blueviolet&style=flat-square"></a>
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/HackWeiser360"><img width=550 src="https://github-profile-trophy.vercel.app/?username=HackWeiser360&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 <a href="https://github.com/HackWeiser360"><img title="HackWeiser360" src="https://github-readme-stats.vercel.app/api?username=HackWeiser360&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
