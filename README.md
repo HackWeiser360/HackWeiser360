@@ -36,11 +36,7 @@
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/ShortURL"><img title="ShortURL" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=ShortURL&theme=dark"></a>
 <p align="center">
-<a href="https://github.com/https://github.com/HackWeiser360/MaxDOS.git"><img title="MaxDOS" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=MaxDOS&theme=dark"></a>
-<p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/Parrot-Shell.git"><img title="Parrot-Shell" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Parrot-Shell&theme=dark"></a>
-<p align="center">
-<a href="https://github.com/https://github.com/HackWeiser360/TheKnight"><img title="TheKnight" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=TheKnight&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/Fabric-Brush"><img title="Fabric-Brush" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Fabric-Brush&theme=dark"></a>
 <p align="center">
@@ -55,7 +51,5 @@
 <a href="https://github.com/https://github.com/HackWeiser360/AutoScriptKiddiesTool"><img title="AutoScriptKiddiesTool" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=AutoScriptKiddiesTool&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/Instahack"><img title="Instahack" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Instahack&theme=dark"></a>
-<p align="center">
-<a href="https://github.com/https://github.com/HackWeiser360/host.git"><img title="Host" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=host&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/xx142-b2.exe"><img title="xx142-b2.exe" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=xx142-b2.exe&theme=dark"></a>
