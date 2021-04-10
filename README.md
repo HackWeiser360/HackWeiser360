@@ -44,8 +44,6 @@
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/TermuxGUI"><img title="TermuxGUI" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=TermuxGUI&theme=dark"></a>
 <p align="center">
-<a href="https://github.com/https://github.com/HackWeiser360/Unfollower"><img title="Unfollower" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Unfollower&theme=dark"></a>
-<p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/IP-icker"><img title="IP-icker" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=IP-icker&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/AutoScriptKiddiesTool"><img title="AutoScriptKiddiesTool" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=AutoScriptKiddiesTool&theme=dark"></a>
