@@ -12,6 +12,8 @@
 <p align="center"
 <a href="https://github.com/https://github.com/HackWeiser360/Free-APIs"><img title="Free-APIs" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Free-APIs&theme=dark"></a>
 <p align="center"
+<a href="https://github.com/https://github.com/HackWeiser360/AndroidSwipeLayout-master"><img title="AndroidSwipeLayout-master" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=AndroidSwipeLayout-master&theme=dark"></a>
+<p align="center"
 <a href="https://github.com/https://github.com/HackWeiser360/python-telegram-bot"><img title="Python Telegram Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=python-telegram-bot&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/HackWeiser360/HackWeiser360.github.io"><img title="HackWeiser360.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=HackWeiser360.github.io&theme=dark"></a>
