@@ -1,4 +1,4 @@
-### Hi there 👋.
+### Hi there 👋
 ### Welcome to my profile👌
 ![Rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
