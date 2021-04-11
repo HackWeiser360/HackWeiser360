@@ -1,7 +1,6 @@
 ### Hi there 👋.
 ### Welcome to my profile👌
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-![Uptime Robot](https://uptimerobot.com) percentage: ![uptime](https://img.shields.io/badge/uptime-83%25-brightgreen)
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/HackWeiser360"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=HackWeiser360&color=blueviolet&style=flat-square"></a>
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
