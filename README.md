@@ -1,6 +1,7 @@
 ### Hi there 👋.
 ### Welcome to my profile👌
-![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+![Rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+https://img.shields.io/static/v1?label=<Popularity>&message=<57%>&color=<informational>
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/HackWeiser360"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=HackWeiser360&color=blueviolet&style=flat-square"></a>
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
