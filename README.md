@@ -28,6 +28,10 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=HackWeiser360&hide_title=true&hide_border=true&langs_count=5)
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/HackWeiser360"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=HackWeiser360&color=blueviolet&style=flat-square"></a>
 
