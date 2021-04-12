@@ -1,5 +1,9 @@
 ### Hi there 👋
 ### Welcome to my profile👌
+### Latest Tweet
+
+<h2>Last Tweet</h2>
+<p><a href="https://www.twitter.com/503_madmax"><img src="https://github.com/HackWeiser360/HackWeiser360/blob/master/tweet.png" width="600"></a></p> 
 ### Things I code with
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
