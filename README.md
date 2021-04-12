@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### Welcome to my profile👌
-![Rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 ### Things I code with
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -31,6 +30,7 @@
 </p>
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/HackWeiser360"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=HackWeiser360&color=blueviolet&style=flat-square"></a>
+![Rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/HackWeiser360"><img width=550 src="https://github-profile-trophy.vercel.app/?username=HackWeiser360&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 <a href="https://github.com/HackWeiser360"><img title="HackWeiser360" src="https://github-readme-stats.vercel.app/api?username=HackWeiser360&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
