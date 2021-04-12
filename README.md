@@ -30,6 +30,7 @@
 </p>
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/HackWeiser360"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=HackWeiser360&color=blueviolet&style=flat-square"></a>
+
 ![Rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/HackWeiser360"><img width=550 src="https://github-profile-trophy.vercel.app/?username=HackWeiser360&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
