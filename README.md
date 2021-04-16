@@ -1,5 +1,15 @@
-### Hi there 👋
-### Welcome to my profile👌
+### Hi there,welcome to my profile👌
+### Where to find me
+<div align="center">
+<a href="https://github.com/HackWeiser360" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/503_madmax" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/madmax4708/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+
 ### Things I code with
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -84,3 +94,8 @@
 <a href="https://github.com/https://github.com/HackWeiser360/Instahack"><img title="Instahack" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Instahack&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/xx142-b2.exe"><img title="xx142-b2.exe" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=xx142-b2.exe&theme=dark"></a>
+
+
+
+### Stargazers
+[![Stargazers repo roster for @HackWeiser360/HackWeiser360](https://reporoster.com/stars/HackWeiser360/HackWeiser360)](https://github.com/HackWeiser360/HackWeiser360)
