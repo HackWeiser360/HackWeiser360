@@ -107,6 +107,7 @@
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/xx142-b2.exe"><img title="xx142-b2.exe" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=xx142-b2.exe&theme=dark"></a>
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=503_madmax)](https://github.com/HackWeiser360/github-readme-twitter)
 
 
 ### Stargazers
