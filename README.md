@@ -59,9 +59,13 @@
 <p align="center"
 <a href="https://github.com/https://github.com/HackWeiser360/python-telegram-bot"><img title="Python Telegram Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=python-telegram-bot&theme=dark"></a>
 <p align="center"
+<a href="https://github.com/https://github.com/HackWeiser360/OSINT_Tips"><img title="OSINT_Tips" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=OSINT_Tips&theme=dark"></a>
+<p align="center"
 <a href="https://github.com/https://github.com/HackWeiser360/HackWeiser360.github.io"><img title="HackWeiser360.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=HackWeiser360.github.io&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/HackWeiser360/HackWeiser360/iOS-Swift-"><img title="iOS-Swift-" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=iOS-Swift-&theme=dark"></a>
+<p align="center">
+<a href="https://github.com/https://github.com/HackWeiser360/MaxPhisher"><img title="MaxPhisher" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=MaxPhisher&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/Caffeine"><img title="Caffeine" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Caffeine&theme=dark"></a>
 <p align="center">
@@ -73,7 +77,15 @@
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/TweetBot"><img title="TweetBot" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=TweetBot&theme=dark"></a>
 <p align="center">
+<a href="https://github.com/https://github.com/HackWeiser360/EasyApply-Linkedin"><img title="EasyApply-Linkedin" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=EasyApply-Linkedin&theme=dark"></a>
+<p align="center">
+<a href="https://github.com/https://github.com/HackWeiser360/discord-bot-client"><img title="discord-bot-client" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=discord-bot-client&theme=dark"></a>
+<p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/VirusKingdom"><img title="VirusKingdom" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=VirusKingdom&theme=dark"></a>
+<p align="center">
+<a href="https://github.com/https://github.com/HackWeiser360/android-ripple-background-master"><img title="android-ripple-background-master" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=android-ripple-background-master&theme=dark"></a>
+<p align="center">
+<a href="https://github.com/https://github.com/HackWeiser360/android"><img title="android" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=android&theme=dark"></a>
 <p align="center">
 <a href="https://github.com/https://github.com/HackWeiser360/Termux-Backup"><img title="Termux-Backup" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=Termux-Backup&theme=dark"></a>
 <p align="center">
