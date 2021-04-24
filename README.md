@@ -67,6 +67,14 @@
 <p align="center"
 <a href="https://github.com/https://github.com/HackWeiser360/EvilBox"><img title="EvilBox" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=EvilBox&theme=dark"></a>
 <p align="center"
+<a href="https://github.com/https://github.com/HackWeiser360/InstaBox"><img title="InstaBox" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=InstaBox&theme=dark"></a>
+<p align="center"
+<a href="https://github.com/https://github.com/HackWeiser360/HackBox"><img title="HackBox" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=HackBox&theme=dark"></a>
+<p align="center"
+<a href="https://github.com/https://github.com/HackWeiser360/GoogleDorks"><img title="GoogleDorks" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=GoogleDorks&theme=dark"></a>
+<p align="center"
+<a href="https://github.com/https://github.com/HackWeiser360/TellMe"><img title="TellMe" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=TellMe&theme=dark"></a>
+<p align="center"
 <a href="https://github.com/https://github.com/HackWeiser360/OSINT_Tips"><img title="OSINT_Tips" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=OSINT_Tips&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/HackWeiser360/HackWeiser360.github.io"><img title="HackWeiser360.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=HackWeiser360&repo=HackWeiser360.github.io&theme=dark"></a>
